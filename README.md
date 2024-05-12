@@ -1,16 +1,53 @@
-### Hi there 👋
+<!-- # Main headline -->
+<h1>
+  Hi, I'm Juan! 
+  <br/>
+  <a href="https://www.linkedin.com/in/joshmadakor/">
+    Cybersecurity Professional
+  </a>
+</h1>
 
-<!--
-**JSaas9364/JSaas9364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # Projects-->
+<h2>
+  👨‍💻 Cybersecurity projects:
+</h2>
+- Active Directory Home Lab
+<br/>
+- SQLi Injection and Detection
+<br/>
+- CSRF Exploit
+<br/>
 
-Here are some ideas to get you started:
+<!-- # Certifications -->
+<h2>
+   📚 Education & Certifications:
+</h2>
+- <strong>CompTIA</strong> A+
+</br>
+- <strong>CompTIA</strong> Network+
+</br>
+- <strong>CompTIA</strong> CYSA+
+</br>
+- <strong>CompTIA</strong> Security+ (Expected: 12/24)
+</br>
+- <strong>CompTIA</strong> Computer Security Support Fundamentals
+</br>
+- <strong>ISC2</strong> Certified in Cybersecurity
+</br>
+- <strong>Google</strong> Technical Support Fundamentals
+</br>
+- <strong>Google</strong> Cybersecurity Professional Certification (Expected 6/24)
+</br>
+- <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
+</br>
+- <strong>Qualys</strong> Vulnerability Management (Expected 6/24)
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- # Social Platforms Section -->
+<h2>
+  Connect with me:
+</h2>
+<a href=https://www.linkedin.com/in/juan-s-519049134/ target = "_blank"> 
+  LinkedIn
+</a>
