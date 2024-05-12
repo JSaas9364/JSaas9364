@@ -48,6 +48,6 @@
 <h2>
   Connect with me:
 </h2>
-<a href=https://www.linkedin.com/in/juan-s-519049134/ target = "_blank"> 
+<a href=https://www.linkedin.com/in/juan-s-519049134/> 
   LinkedIn
 </a>
