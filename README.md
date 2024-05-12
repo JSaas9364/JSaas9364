@@ -2,7 +2,7 @@
 <h1>
   Hi, I'm Juan! 
   <br/>
-  <a href="https://www.linkedin.com/in/joshmadakor/">
+  <a href="https://www.linkedin.com/in/juan-s-519049134/">
     Cybersecurity Professional
   </a>
 </h1>
