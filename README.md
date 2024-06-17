@@ -13,6 +13,12 @@
 </h2>
 - Active Directory Home Lab
 <br/>
+- School Labs Completed: 
+<br/>
+Detecting and Exploiting: Security Misconfiguration, IoC and Threat Intelligence, Threat Hunting, Configure Centralized Logging, Access Time Synch Errors, Configuring Automation, Performing System Hardening, Asset Discovery, Vulnerability Scanning, Passive Scanning, Establishing Context Awareness, Analyzing Vulnerability Reports, Detecting Legacy Systems, Performing Post-Incident Forensic Analysis, Collecting Forensic Evidence, Performing Playbook Incident Response, Performing Root Cause Analysis, Using Network Sniffers, Research DNS and IP reputation, Using File Analysis Techniques, Analyzing Potentially Malicious Files, Using Nontraditional Vulnerability Scanning Tools, Performing Web Vulnerability Scanning, Analyzing Cloud Vulnerabilities, Exploiting Weak Cryptography, Performing and Detecting Directory Traversal and Command Injection, Performing Privilege Escalation, Performing and Detecting XSS, LFI/RFI, DDoS Detection and analysis, URL obfuscation. 
+<br/>
+Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC – Windows. EDR, Sandboxing for malware analysis, SIEM, SOAR, MITRE ATT&CK framework, Diamond Model Intrusion analysis, OSINT, Email Header Analysis, OpenVAS, NMAP, OWASP ZAP, JSON, XML, PowerShell, Bash, SQL, CIS Benchmarks, PCI DSS, SCAP, CVSS, KPIs, IR Reporting.
+<br/>
 
 <!-- # Certifications -->
 <h2>
