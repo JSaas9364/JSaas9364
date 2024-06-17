@@ -32,11 +32,11 @@
 </br>
 - <strong>Google</strong> Technical Support Fundamentals
 </br>
-- <strong>Google</strong> Cybersecurity Professional Certification (Expected 6/24)
+- <strong>Google</strong> Cybersecurity Professional Certification
 </br>
 - <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
 </br>
-- <strong>Qualys</strong> Vulnerability Management (Expected 6/24)
+- <strong>Qualys</strong> Vulnerability Management
 </br>
 
 
