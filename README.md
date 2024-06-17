@@ -13,10 +13,6 @@
 </h2>
 - Active Directory Home Lab
 <br/>
-- Temp
-<br/>
-- Temp
-<br/>
 
 <!-- # Certifications -->
 <h2>
