@@ -13,9 +13,9 @@
 </h2>
 - Active Directory Home Lab
 <br/>
-- SQLi Injection and Detection
+- Temp
 <br/>
-- CSRF Exploit
+- Temp
 <br/>
 
 <!-- # Certifications -->
