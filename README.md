@@ -42,6 +42,10 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 </br>
 - <strong>Qualys</strong> Vulnerability Management
 </br>
+</br>
+<strong>Western Governor's University: Cybersecurity Master's Degree</strong>
+<br/>
+<strong>Western Governor's University: Business Administration, Management Bachelor's Degree</strong>
 
 
 <!-- # Social Platforms Section -->
