@@ -28,9 +28,7 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 </br>
 - <strong>ISC2</strong> Certified in Cybersecurity
 </br>
-- <strong>Google</strong> Technical Support Fundamentals
-</br>
-- <strong>Google</strong> Cybersecurity Professional Certification
+- <strong>Google</strong> Technical Support Fundamentals, Cybersecurity Professional Certification
 </br>
 - <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
 </br>
