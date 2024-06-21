@@ -28,7 +28,7 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 </br>
 - <strong>CompTIA</strong> CYSA+
 </br>
-- <strong>CompTIA</strong> Security+ (Expected: 12/24)
+- <strong>CompTIA</strong> Security+ (Expected: 7/24)
 </br>
 - <strong>CompTIA</strong> Computer Security Support Fundamentals
 </br>
