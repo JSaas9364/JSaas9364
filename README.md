@@ -22,7 +22,7 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 <h2>
    ðŸ“š Education & Certifications:
 </h2>
-- <strong>CompTIA</strong> A+, Network+,  CYSA+, Pentest+ (Expected: 7/24), Security+ (Expected: 7/24)
+- <strong>CompTIA</strong> A+, Network+,  CYSA+, Pentest+, Security+
 </br>
 - <strong>CompTIA</strong> Computer Security Support Fundamentals
 </br>
