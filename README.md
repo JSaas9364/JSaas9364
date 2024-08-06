@@ -36,7 +36,11 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC �
 <br><br>
 <strong>Western Governor's University:</strong> Cybersecurity Master's Degree
 <br>
+•	Security Operations, Secure Network Design, Secure Software Design, Governance, Risk and Compliance, Cloud Security, Cybersecurity Architecture and Engineering, Penetration Testing, Cybersecurity Management.
+<br>
 <strong>Western Governor's University:</strong> Business Administration, Management Bachelor's Degree
+<br>
+•	Business Ethics, Principles of Management, Values-Based Leadership, Intro to IT, Principles of Financial and Managerial Accounting, Sales Management, Project Management, Change Management
 
 
 <!-- # Social Platforms Section -->
