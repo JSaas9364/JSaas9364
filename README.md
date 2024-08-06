@@ -1,7 +1,7 @@
 <!-- # Main headline -->
 <h1>
   Hi, I'm Juan! 
-  <br/>
+  <br>
   <a href="https://www.linkedin.com/in/juan-s-519049134/">
     Cybersecurity Professional
   </a>
@@ -31,7 +31,7 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 - <strong>Google</strong> Technical Support Fundamentals, Cybersecurity Professional Certification
 <br>
 - <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
-</br>
+<br>
 - <strong>Qualys</strong> Vulnerability Management
 <br>
 <br>
