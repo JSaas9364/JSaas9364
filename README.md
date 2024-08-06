@@ -33,7 +33,7 @@ Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC â€
 - <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
 <br>
 - <strong>Qualys</strong> Vulnerability Management
-<br>
+<br><br>
 <strong>Western Governor's University:</strong> Cybersecurity Master's Degree
 <br>
 <strong>Western Governor's University:</strong> Business Administration, Management Bachelor's Degree
