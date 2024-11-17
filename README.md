@@ -71,32 +71,6 @@
   </li>
 </ul>
 
-
-<!-- # Certifications -->
-<h2>
-   📚 Education & Certifications:
-</h2>
-- <strong>CompTIA</strong> A+, Network+,  CYSA+, Pentest+, Security+
-<br>
-- <strong>CompTIA</strong> Computer Security Support Fundamentals
-<br>
-- <strong>ISC2</strong> Certified in Cybersecurity
-<br>
-- <strong>Google</strong> Technical Support Fundamentals, Cybersecurity Professional Certification
-<br>
-- <strong>FEMA </strong> National Incident Management System (NIMS): ICS-100
-<br>
-- <strong>Qualys</strong> Vulnerability Management
-<br><br>
-<strong>Western Governor's University:</strong> Cybersecurity Master's Degree
-<br>
-•	Security Operations, Secure Network Design, Secure Software Design, Governance, Risk and Compliance, Cloud Security, Cybersecurity Architecture and Engineering, Penetration Testing, Cybersecurity Management.
-<br>
-<strong>Western Governor's University:</strong> Business Administration, Management Bachelor's Degree
-<br>
-•	Business Ethics, Principles of Management, Values-Based Leadership, Intro to IT, Principles of Financial and Managerial Accounting, Sales Management, Project Management, Change Management
-
-
 <!-- # Social Platforms Section -->
 <h2>
   Connect with me:
