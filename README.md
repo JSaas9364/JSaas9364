@@ -11,12 +11,66 @@
 <h2>
   👨‍💻 Cybersecurity projects:
 </h2>
-- Active Directory Home Lab: Pending Post
-<br><br>
-- School Labs Completed: Detecting and Exploiting: Security Misconfiguration, IoC and Threat Intelligence, Threat Hunting, Configure Centralized Logging, Access Time Synch Errors, Configuring Automation, Performing System Hardening, Asset Discovery, Vulnerability Scanning, Passive Scanning, Establishing Context Awareness, Analyzing Vulnerability Reports, Detecting Legacy Systems, Performing Post-Incident Forensic Analysis, Collecting Forensic Evidence, Performing Playbook Incident Response, Performing Root Cause Analysis, Using Network Sniffers, Research DNS and IP reputation, Using File Analysis Techniques, Analyzing Potentially Malicious Files, Using Nontraditional Vulnerability Scanning Tools, Performing Web Vulnerability Scanning, Analyzing Cloud Vulnerabilities, Exploiting Weak Cryptography, Performing and Detecting Directory Traversal and Command Injection, Performing Privilege Escalation, Performing and Detecting XSS, LFI/RFI, DDoS Detection and analysis, URL obfuscation. 
-<br>
-Platforms and Technology Used: Virtual Machines - Kali Linux, LAMP, Target PC – Windows. EDR, Sandboxing for malware analysis, SIEM, SOAR, MITRE ATT&CK framework, Diamond Model Intrusion analysis, OSINT, Email Header Analysis, OpenVAS, NMAP, OWASP ZAP, JSON, XML, PowerShell, Bash, SQL, CIS Benchmarks, PCI DSS, SCAP, CVSS, KPIs, IR Reporting.
-<br>
+
+<ul>
+  <li>
+    <strong>Active Directory Home Lab:</strong> Pending Post
+  </li>
+  <li>
+    <strong>School Labs Completed:</strong>
+    <ul>
+      <li>Detecting and Exploiting Security Misconfiguration</li>
+      <li>Indicators of Compromise (IoC) and Threat Intelligence</li>
+      <li>Threat Hunting and Incident Response</li>
+      <li>Configuring Centralized Logging and Automation</li>
+      <li>System Hardening and Asset Discovery</li>
+      <li>Vulnerability Scanning (Passive and Active)</li>
+      <li>Context Awareness and Legacy System Detection</li>
+      <li>Post-Incident Forensics and Evidence Collection</li>
+      <li>Root Cause Analysis and Network Sniffing</li>
+      <li>DNS and IP Reputation Research</li>
+      <li>File Analysis and Analyzing Potentially Malicious Files</li>
+      <li>Web Vulnerability Scanning (XSS, LFI/RFI, Directory Traversal)</li>
+      <li>Cloud Vulnerability Analysis and Weak Cryptography Exploitation</li>
+      <li>Privilege Escalation and Command Injection Detection</li>
+      <li>DDoS Detection and Analysis, URL Obfuscation</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Platforms and Technologies Used:</h3>
+<ul>
+  <li>Virtual Machines: Kali Linux, LAMP Stack, Windows (Target PC)</li>
+  <li>Tools: SIEM (Splunk), SOAR, EDR, Sandboxing, MITRE ATT&CK, OpenVAS, Nmap, OWASP ZAP</li>
+  <li>Languages & Frameworks: PowerShell, Bash, SQL, JSON, XML</li>
+  <li>Standards & Benchmarks: CIS Benchmarks, PCI DSS, SCAP, CVSS</li>
+  <li>Analysis Models: Diamond Model Intrusion Analysis, OSINT, Email Header Analysis</li>
+</ul>
+
+<!-- # Certifications Section -->
+<h2>📚 Education & Certifications:</h2>
+
+<ul>
+  <li><strong>CompTIA:</strong> A+, Network+, CYSA+, PenTest+, Security+</li>
+  <li><strong>ISC2:</strong> Certified in Cybersecurity</li>
+  <li><strong>Google:</strong> Technical Support Fundamentals, Cybersecurity Professional Certification</li>
+  <li><strong>FEMA:</strong> National Incident Management System (NIMS): ICS-100</li>
+  <li><strong>Qualys:</strong> Vulnerability Management</li>
+  <li><strong>Western Governors University (Master's Degree in Cybersecurity):</strong>
+    <ul>
+      <li>Security Operations, Secure Network Design, Secure Software Development</li>
+      <li>Governance, Risk, and Compliance (GRC), Cloud Security</li>
+      <li>Penetration Testing, Cybersecurity Management</li>
+    </ul>
+  </li>
+  <li><strong>Western Governors University (Bachelor's Degree in Business Administration):</strong>
+    <ul>
+      <li>Business Ethics, Management, Project Management, Change Management</li>
+      <li>Principles of Financial and Managerial Accounting, Sales Management</li>
+    </ul>
+  </li>
+</ul>
+
 
 <!-- # Certifications -->
 <h2>
