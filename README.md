@@ -56,6 +56,8 @@
   <li><strong>Google:</strong> Technical Support Fundamentals, Cybersecurity Professional Certification</li>
   <li><strong>FEMA:</strong> National Incident Management System (NIMS): ICS-100</li>
   <li><strong>Qualys:</strong> Vulnerability Management</li>
+</ul>
+<br/>
   <li><strong>Western Governors University (Master's Degree in Cybersecurity):</strong>
     <ul>
       <li>Security Operations, Secure Network Design, Secure Software Development</li>
