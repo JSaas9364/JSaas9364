@@ -58,9 +58,9 @@
 <br/>
   <li><strong>Western Governors University (Master's Degree in Cybersecurity):</strong>
     <ul>
-      <li>Security Operations, Secure Network Design, Secure Software Development</li>
-      <li>Governance, Risk, and Compliance (GRC), Cloud Security</li>
-      <li>Penetration Testing, Cybersecurity Management</li>
+      <li>Secure Network Design, Security Operations, Governance, Risk & Compliance (GRC)</li>
+      <li>Cyber Threat Intelligence, System Administration, Information Security, Disaster Recovery</li>
+      <li>Penetration Testing, Cybersecurity Management, Cloud Security, Incident Response</li>
     </ul>
   </li>
   <li><strong>Western Governors University (Bachelor's Degree in Software Engineering):</strong>
