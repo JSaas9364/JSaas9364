@@ -17,7 +17,7 @@
     <strong>Active Directory Home Lab:</strong> Pending Post
   </li>
   <li>
-    <strong>School Labs Completed:</strong>
+    <strong>Projects Worked On:</strong>
     <ul>
       <li>Detecting and Exploiting Security Misconfiguration</li>
       <li>Indicators of Compromise (IoC) and Threat Intelligence</li>
