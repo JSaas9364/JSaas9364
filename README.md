@@ -51,7 +51,7 @@
 <h2>📚 Education & Certifications:</h2>
 
 <ul>
-  <li><strong>CompTIA:</strong> A+, Network+, CYSA+, PenTest+, Security+</li>
+  <li><strong>CompTIA:</strong> A+, Network+, Security+, CYSA+, PenTest+</li>
   <li><strong>ISC2:</strong> Certified in Cybersecurity</li>
   <li><strong>Google:</strong> Technical Support Fundamentals, Cybersecurity Professional Certification</li>
   <li><strong>FEMA:</strong> National Incident Management System (NIMS): ICS-100</li>
