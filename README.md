@@ -16,7 +16,7 @@
   <li>
     <strong>Projects Worked On:</strong>
     <ul>
-      <li>Virtual Device Active Directory Deployment</li>
+      <li>Virtual Machines Active Directory Deployment</li>
       <li>Detecting and Exploiting Security Misconfiguration</li>
       <li>Indicators of Compromise (IoC) and Threat Intelligence</li>
       <li>Threat Hunting and Incident Response</li>
