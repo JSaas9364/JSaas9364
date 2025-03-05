@@ -63,6 +63,12 @@
       <li>Penetration Testing, Cybersecurity Management</li>
     </ul>
   </li>
+  <li><strong>Western Governors University (Bachelor's Degree in Software Engineering):</strong>
+    <ul>
+      <li>Secure Software Development, Full-Stack Development, Agile, Java, UX, UI, Database Management, </li>
+      <li>Database Management, Advanced Programming, Software Architecture, Mobile App Development</li>
+      <li>Advanced Programming, Software Architecture, Mobile App Development, Back-End Programming</li>
+    </ul>
   <li><strong>Western Governors University (Bachelor's Degree in Business Administration):</strong>
     <ul>
       <li>Business Ethics, Management, Project Management, Change Management</li>
