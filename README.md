@@ -3,7 +3,7 @@
   Hi, I'm Juan! 
   <br>
   <a href="https://www.linkedin.com/in/juan-s-519049134/">
-    Cybersecurity Professional
+    IT | CYBERSECURITY | SOFTWARE ENGINEERING
   </a>
 </h1>
 
