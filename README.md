@@ -9,11 +9,11 @@
 </h1>
 
 <p>
-Cybersecurity and infrastructure professional working across <strong>security operations, enterprise IT, detection engineering, automation, networking, identity, virtualization, and compliance</strong>.
+Cybersecurity and infrastructure professional working across <strong>security operations, enterprise IT, detection engineering, automation, networking, cloud infrastructure, identity, virtualization, databases, observability, and compliance</strong>.
 </p>
 
 <p>
-I currently manage security operations and production IT environments in defense manufacturing, working across technical strategy, security modernization, infrastructure, incident response, and CMMC/NIST SP 800-171 readiness.
+I currently manage security operations and production IT environments in defense manufacturing, working across technical strategy, security modernization, infrastructure, incident response, automation, and CMMC/NIST SP 800-171 readiness.
 </p>
 
 <!-- # Cybersecurity Section -->
@@ -86,6 +86,35 @@ I build automation around security operations to reduce manual investigation, im
   <li>Infrastructure migration and modernization</li>
 </ul>
 
+<!-- # Cloud Section -->
+
+<h2>Cloud Infrastructure</h2>
+
+<ul>
+  <li>Amazon Web Services (AWS)</li>
+  <li>Amazon EC2</li>
+  <li>Amazon S3</li>
+  <li>Amazon Lightsail</li>
+  <li>Cloud-hosted Linux infrastructure</li>
+  <li>Cloud application deployment and administration</li>
+  <li>Cloud storage and infrastructure management</li>
+  <li>Hybrid on-premises and cloud environments</li>
+</ul>
+
+<!-- # Observability Section -->
+
+<h2>Monitoring & Observability</h2>
+
+<ul>
+  <li>Grafana dashboards and visualization</li>
+  <li>OpenSearch dashboards</li>
+  <li>SIEM dashboards and operational monitoring</li>
+  <li>Infrastructure and security telemetry</li>
+  <li>Centralized logging</li>
+  <li>Event correlation and analysis</li>
+  <li>Security and infrastructure alerting</li>
+</ul>
+
 <!-- # Networking Section -->
 
 <h2>Networking</h2>
@@ -114,6 +143,7 @@ I build automation around security operations to reduce manual investigation, im
   <li>React</li>
   <li>Node.js / Express</li>
   <li>SQL</li>
+  <li>PostgreSQL</li>
   <li>SQLite</li>
   <li>PowerShell</li>
   <li>Bash</li>
@@ -126,6 +156,21 @@ I build automation around security operations to reduce manual investigation, im
 <p>
 I use software development and automation to connect infrastructure and security systems, reduce repetitive administration, improve visibility, and make security operations more consistent.
 </p>
+
+<!-- # Database Section -->
+
+<h2>Databases & Data</h2>
+
+<ul>
+  <li>PostgreSQL</li>
+  <li>SQLite</li>
+  <li>SQL</li>
+  <li>Application data persistence</li>
+  <li>Security event persistence</li>
+  <li>Workflow state management</li>
+  <li>Alert deduplication</li>
+  <li>Data-backed automation workflows</li>
+</ul>
 
 <!-- # Projects Section -->
 
@@ -140,6 +185,27 @@ I use software development and automation to connect infrastructure and security
       <li>Identify SIEM monitoring blind spots</li>
       <li>Build n8n workflows for detection enrichment and alert routing</li>
       <li>Integrate SQL-backed persistence, state tracking, and deduplication</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Security Monitoring & Observability</strong>
+    <ul>
+      <li>Build dashboards for security and infrastructure telemetry</li>
+      <li>Use Wazuh, OpenSearch, Splunk, and Grafana for operational visibility</li>
+      <li>Centralize and analyze endpoint, firewall, authentication, and infrastructure events</li>
+      <li>Develop alerting and visualization workflows for faster investigation</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Cloud & Infrastructure Engineering</strong>
+    <ul>
+      <li>Deploy and administer workloads using AWS</li>
+      <li>Work with EC2 compute infrastructure</li>
+      <li>Use S3 for cloud object storage</li>
+      <li>Deploy and manage services using Amazon Lightsail</li>
+      <li>Support hybrid environments spanning cloud and on-premises infrastructure</li>
     </ul>
   </li>
 
