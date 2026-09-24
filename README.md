@@ -1,5 +1,5 @@
 <!-- Main Header -->
-<h1>Hi, I'm Juan Sanchez</h1>
+<h1>Hi, I'm Juan </h1>
 <strong>Cybersecurity Operations | Detection Engineering | Infrastructure Engineering | Software Engineering</strong>
 <br><br>
 I design, secure, operate, and automate production infrastructure across enterprise IT, security operations, networking, virtualization, cloud platforms, databases, and software systems. Current work includes security monitoring across 100+ endpoints, SIEM/SOAR engineering, incident response, infrastructure modernization, automation, and CMMC/NIST SP 800-171 readiness.
